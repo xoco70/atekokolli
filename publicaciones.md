@@ -3,7 +3,7 @@ layout: index
 title: Clinica de medicina tradicional Atekokolli
 tagline: Bootstrap 4 UI kit for Jekyll
 css: publicaciones.css
-js: sliders.js
+js: 
 keywords: helium, jekyll, bootstrap, UI, kit
 canonical: https://heliumjk.github.io
 ---
