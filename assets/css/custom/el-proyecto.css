@@ -1,4 +1,4 @@
-ul, li {
+ul, .proyectos li {
     padding: 20px;
     list-style: square;
 }

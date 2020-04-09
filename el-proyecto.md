@@ -13,7 +13,7 @@ canonical: https://heliumjk.github.io
   <div class="container mt-5">
       <h2>Se escogen cuatro grandes proyectos como son:</h2>
 
-<ul>
+<ul class="proyectos">
  	<li >Medicina Tradicional</li>
  	<li >Cultura</li>
  	<li>Ecología</li>
