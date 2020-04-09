@@ -1,0 +1,15 @@
+img{
+    width: auto!important;
+}
+
+.alignleft {
+    display: inline;
+    float: left;
+    margin-right: 15px;
+ }
+ 
+ .alignright {
+    display: inline;
+    float: right;
+    margin-left: 15px;
+ }
