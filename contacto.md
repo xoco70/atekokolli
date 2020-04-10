@@ -2,7 +2,7 @@
 layout: index
 title: Clinica de medicina tradicional Atekokolli
 tagline: Bootstrap 4 UI kit for Jekyll
-css: 
+css: contacto.css
 js: 
 keywords: helium, jekyll, bootstrap, UI, kit
 canonical: https://heliumjk.github.io
@@ -51,7 +51,6 @@ canonical: https://heliumjk.github.io
               </div>
             </form>
           </div>
-
           <div class="col-md-4">
             <h4 class="contact-info-title">Information de Contacto</h4>
             <div class="contact-info">
@@ -66,6 +65,16 @@ canonical: https://heliumjk.github.io
                 <a href="tel:+52(1739)3933194"><i class="fa fa-phone icons cyan-color contact-info-icon"></i>01(739)3933194</a>
               </div>
               <a href="mailto:contacto@atekokolli.org"><i class="fa fa-envelope-o icons cyan-color contact-info-icon"></i>contacto@atekokolli.org</a>
+              <div><strong>Horarios</strong></div>
+              <ul class="horarios">
+                <li>Lunes: Cerrado</li>
+                <li>Martes: 10:30am-5:00pm</li>
+                <li>Miercoles: Cerrado</li>
+                <li>Jueves: 10:30am-5:00pm</li>
+                <li>Viernes: 10:30am-5:00pm</li>
+                <li>Sabado: 9:00am-2:00pm</li>
+                <li>Domingo: Cerrado</li>
+              </ul>
               <!-- {% include social-block.html %} -->
               <img src="assets/images/guiacomollegar.jpg" >
               <img src="assets/images/bienvenidos_por_la_carretera.jpg" >
