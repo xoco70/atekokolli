@@ -66,6 +66,24 @@ canonical: https://heliumjk.github.io
           </div>
         </div>
       </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="card">
+          <img class="card-img-top" src="{{ BASE_PATH }}/assets/images/iridiologia2.jpg" alt="chiropractie" height="191">
+          <div class="card-block">
+            <h3 class="card-title">	Iridología</h3>
+            <p class="card-text">La Iridología es un método para el diagnóstico de alteraciones funcionales orgánicas o tendencias, basado en los signos que hallamos en el iris</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="card">
+          <img class="card-img-top" src="{{ BASE_PATH }}/assets/images/acupuntura.jpg" alt="acupuntura" height="191">
+          <div class="card-block">
+            <h3 class="card-title">	Acupuntura</h3>
+            <p class="card-text">La acupuntura es una de las cinco ramas de la Medicina Tradicional China. Esta terapia está fundada sobre un enfoque energético y holístico.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>                
 <!-- Content area end -->
