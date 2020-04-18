@@ -1,14 +1,16 @@
-img{
+/* img{
     width: auto!important;
-}
+} */
 
 .alignleft {
+    width: auto;
     display: inline;
     float: left;
     margin-right: 15px;
  }
  
  .alignright {
+    width: auto;
     display: inline;
     float: right;
     margin-left: 15px;

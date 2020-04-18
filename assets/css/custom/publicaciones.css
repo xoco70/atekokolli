@@ -1,3 +1,13 @@
-img{
+/* img{
     width: auto!important;
+} */
+
+.flag{
+    width: 20px;
+    height: 13px
+}
+
+.pdf{
+    width: 20px;
+    height: 25px
 }
